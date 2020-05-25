@@ -1,5 +1,10 @@
 # Coding Challenge - React Native
 
+to run: 
+```
+npm start
+```
+
 Inventory is a small utility app that could be used in a logistics company. It has two use cases:
 
 1. Adding products to the inventory using a bar code scanner 
